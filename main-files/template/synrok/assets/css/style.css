@@ -106,7 +106,7 @@ a {
     position: relative;
     width: auto;
     height: 260px;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.701), rgba(0, 0, 0, 0.228)), linear-gradient(to right, rgba(0, 0, 0, 0), rgba(248, 78, 40, 0.139)), url(img/signup-banner.avif) center center;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.701), rgba(0, 0, 0, 0.228)), linear-gradient(to right, rgba(0, 0, 0, 0), rgba(248, 78, 40, 0.139)), url(img/signup-banner.png) center center;
     background-size: cover;
     background-position: center;
     padding-left: 1.0rem;
@@ -730,7 +730,7 @@ a {
 
 .splash-bg-1 {
     background-image: url(https://via.placeholder.com/1080X1440); 
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.982), rgba(0, 0, 0, 0.228)), linear-gradient(to right, rgba(0, 0, 0, 0), rgba(248, 78, 40, 0.139)), url(img/02.webp) center center;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.982), rgba(0, 0, 0, 0.228)), linear-gradient(to right, rgba(0, 0, 0, 0), rgba(248, 78, 40, 0.139)), url(imgages/img/02.webp) center center;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
